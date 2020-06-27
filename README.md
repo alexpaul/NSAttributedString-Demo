@@ -1,6 +1,6 @@
 # NSAttributedString
 
-A simple example of using NSAttributedString on a UILabel. In this app we find a substring using NSRange on a NSString then add a bold attribute to the found range. 
+A simple example of using NSAttributedString on a UILabel. In this app we find a substring using NSRange on a NSString then add a bold attribute and underline to the found range. 
 
 ```swift 
 private func stylelizeText() {
