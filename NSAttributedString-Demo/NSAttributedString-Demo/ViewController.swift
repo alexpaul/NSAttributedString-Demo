@@ -12,7 +12,7 @@ class ViewController: UIViewController {
   
   @IBOutlet weak var messageLabel: UILabel!
   
-  let sampleStr = "Situation: Enter a situation in which you were invovled, that had a positive otucome\n\nTask: Enter the tasks that were involved in the situation\n\nAction: Specify what actions yo utook in the situation to complete the tasks\n\nResult: What were the results of your actions taken?"
+  let sampleStr = "Situation: Enter a situation in which you were invovled, that had a positive otucome\n\nTask: Enter the tasks that were involved in the situation\n\nAction: Specify what actions you took in the situation to complete the tasks\n\nResult: What were the results of your actions taken?"
   
   override func viewDidLoad() {
     super.viewDidLoad()
